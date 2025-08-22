@@ -20,11 +20,11 @@ A Next.js 15 application with authentication and product management features.
 
 ## Live Demo
 
-[View Live Site](https://your-app.vercel.app)
+[View Live Site](https://my-app-green-tau.vercel.app)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/rafiq-567/nextjs-app.git
    cd your-repo-name
